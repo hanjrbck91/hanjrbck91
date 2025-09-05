@@ -46,7 +46,7 @@ Today, I’m focused on **AR/VR simulations, custom Unity tooling, and XR innova
 
 ---
 
-## 🌟 Achievements  
+### 🌟 Achievements  
 ✔️ Transitioned successfully from non-tech → tech as a Unity/XR Engineer.  
 ✔️ Developed Unity tools to automate asset bundle builds, uploads, and tester notifications.  
 ✔️ Delivered high-quality **VR/AR simulations** used for pharma & medical training.  
