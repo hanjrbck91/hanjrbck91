@@ -56,7 +56,7 @@ Today, I’m focused on **AR/VR simulations, custom Unity tooling, and XR innova
 
 ## 📫 Let’s Connect!  
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=whitehttps://linkedin.com/in/hadhilmuhammedh) 
-![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=whitehttps://[yourportfolio.com](https://hadhilnjr.itch.io/)) 
+![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=whitehttps://[[yourportfolio.com](https://hadhilnjr.itch.io/)](https://hadhilnjr.itch.io/)) 
 ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=whitemailto:muhammedhhadhilcme@gmail.com) 
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitehttps://github.com/yourgithub) 
 
