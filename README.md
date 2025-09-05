@@ -1,32 +1,71 @@
-<h1 align="center">Hello there 👋, I'm Muhammed Hadhil</h1>
-<h3 align="center">XR & Unity Developer | AR/VR Enthusiast | Game Simulation Engineer</h3>
+# 👋 Hi, I'm Muhammed Hadhil  
 
-- 🔭 I’m currently working on **XR Simulation & Unity Tooling**
-- 🌱 Exploring **AR/VR development, XR Interaction Toolkit, C++ integration, and graphics programming (Shaders/HLSL/GLSL)**
-- 🛠 Built **custom Unity Editor tools** for:
-   - Hand Grab Pose Recorder (XR Interaction Toolkit)  
-   - Automation pipelines (asset bundle build → cloud upload → tester notification, similar to CI/CD in Unity)  
-   - Simulation SDK process optimizers
-- 💬 Ask me about **Unity, XR/AR/VR, C#, Game Development, Simulation Engineering**
-- 📫 Reach me at **muhammedhhadhilcmr@gmail.com**
-- ⚡ Fun fact: **I turn coffee ☕ into XR experiences 🔮 in Unity!**
+🎮 **Unity Game Developer | AR/VR Engineer | Simulation Specialist**  
+🚀 Passionate about building immersive experiences in **VR, AR, and Gaming**  
+🛠️ Skilled at creating **custom Unity tools**, performance optimizations, and simulations for **medical & pharmaceutical training**  
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/hadhilmuhammedh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hadhilmuhammedh" height="30" width="40" /></a>
-<a href="https://leetcode.com/hadhilnjrbrototype/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hadhilnjrbrototype" height="30" width="40" /></a>
-</p>
+## 🛠️ Technologies & Tools  
+
+### 🔹 Game Development & XR  
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![Shader Graph](https://img.shields.io/badge/Shader%20Graph-000000?style=for-the-badge&logo=unity&logoColor=white)  
+![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![ARKit](https://img.shields.io/badge/ARKit-000000?style=for-the-badge&logo=apple&logoColor=white)  
+![Oculus](https://img.shields.io/badge/Oculus-1C1E20?style=for-the-badge&logo=oculus&logoColor=white)  
+![Photon](https://img.shields.io/badge/Photon-1B1B1B?style=for-the-badge&logo=photon&logoColor=blue)  
+![Mirror](https://img.shields.io/badge/Mirror-Networking-blue?style=for-the-badge)  
+
+### 🔹 Automation & Tools  
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)  
+![Unity Cloud Build](https://img.shields.io/badge/Unity%20Cloud%20Build-000000?style=for-the-badge&logo=unity&logoColor=white)  
+![Custom Editor Tools](https://img.shields.io/badge/Unity%20Editor%20Scripting-blueviolet?style=for-the-badge)  
+
+### 🔹 Backend & APIs  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![REST](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white)  
+
+### 🔹 Design & Productivity  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  
+![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)  
 
 ---
 
-<h3 align="left">Languages & Tools:</h3>
-<p align="left">
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" alt="opengl" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.ve_
+## 📌 My Story  
+
+My journey started with a **non-tech background**, but I transitioned into **tech and game development** by sheer passion and consistency.  
+Over the years, I’ve:  
+- Built **VR training simulations** for pharma and medical industries.  
+- Created **custom Unity automation tools** to streamline simulation pipelines (similar to CI/CD).  
+- Worked on **multiplayer games and XR experiences**.  
+- Optimized Unity apps for **runtime stability and performance**.  
+
+Today, I’m focused on **AR/VR simulations, custom Unity tooling, and XR innovation** 🚀  
+
+---
+
+## 🌟 Achievements  
+✔️ Transitioned successfully from non-tech → tech as a Unity/XR Engineer.  
+✔️ Developed Unity tools to automate asset bundle builds, uploads, and tester notifications.  
+✔️ Delivered high-quality **VR/AR simulations** used for pharma & medical training.  
+✔️ Optimized Unity projects for **performance and runtime stability** in production environments.  
+
+---
+
+## 📫 Let’s Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourgithub)  
+
+---
+
+⚡ *“Building immersive worlds, one line of code at a time.”*  
