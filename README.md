@@ -24,12 +24,6 @@
 ![Unity Cloud Build](https://img.shields.io/badge/Unity%20Cloud%20Build-000000?style=for-the-badge&logo=unity&logoColor=white) 
 ![Custom Editor Tools](https://img.shields.io/badge/Unity%20Editor%20Scripting-blueviolet?style=for-the-badge)  
 
-### 🔹 Backend & APIs  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
-![REST](https://img.shields.io/badge/REST%20APIs-FF6F00?style=for-the-badge&logo=api&logoColor=white)  
-
 ### 🔹 Design & Productivity  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
