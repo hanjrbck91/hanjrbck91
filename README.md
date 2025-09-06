@@ -8,16 +8,19 @@
 
 ---
 
-## 🚀 About Me  
+## 🚀 About Me
 
-Hi, I’m **Muhammed Hadhil** — a Unity Developer passionate about **VR simulations, XR tooling, and immersive training experiences**.  
+Hi, I’m Muhammed Hadhil — a Unity Developer passionate about VR simulations, XR tooling, and immersive training experiences.
 
-✨ Highlights of what I do:  
-- 🕹 Build **VR training simulations** for pharma & medical industries.  
-- 🛠 Create **custom Unity tools** (like a Grab Pose Recorder for XR hands).  
-- ⚡ Optimize Unity apps for **runtime stability and performance**.  
-- 🤝 Always exploring **new XR workflows and tools** to push immersive tech forward.  
+I love building more than just apps — I focus on spotting real-world problems and turning them into practical solutions. Whether it’s:
 
+🕹 Designing VR training simulations for pharma & medical industries.
+
+🛠 Creating custom Unity XR tools (like a Grab Pose Recorder that saves hours of setup time).
+
+📱 Building side projects like QuickQR, a mobile app that helps gig workers instantly show their UPI QR codes.
+
+I believe great developers aren’t just coders — they’re problem-solvers, innovators, and builders. That mindset drives me to keep learning, experimenting, and creating impactful experiences.
 ---
 ## 🛠️ Technologies & Tools  
 
