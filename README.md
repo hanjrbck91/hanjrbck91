@@ -1,11 +1,24 @@
-# 👋 Hi, I'm Muhammed Hadhil  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey%20There!%20I'm%20Hadhil%20👋&animation=fadeIn&type=waving&color=gradient&height=120"/>
+</p>
 
-🎮 **Unity Game Developer | AR/VR Engineer | Simulation Specialist**  
-🚀 Passionate about building immersive experiences in **VR, AR, and Gaming**  
-🛠️ Skilled at creating **custom Unity tools**, performance optimizations, and simulations for **medical & pharmaceutical training**  
+<p align="center">
+  <em>🎮 Unity Game Developer • 🥽 XR Engineer • 🛠 Simulation Specialist</em>  
+</p>
 
 ---
 
+## 🚀 About Me  
+
+Hi, I’m **Muhammed Hadhil** — a Unity Developer passionate about **VR simulations, XR tooling, and immersive training experiences**.  
+
+✨ Highlights of what I do:  
+- 🕹 Build **VR training simulations** for pharma & medical industries.  
+- 🛠 Create **custom Unity tools** (like a Grab Pose Recorder for XR hands).  
+- ⚡ Optimize Unity apps for **runtime stability and performance**.  
+- 🤝 Always exploring **new XR workflows and tools** to push immersive tech forward.  
+
+---
 ## 🛠️ Technologies & Tools  
 
 ### 🔹 Game Development & XR  
