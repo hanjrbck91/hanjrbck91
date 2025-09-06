@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <em>🎮 Unity Game Developer • 🥽 XR Engineer • 🛠 Simulation Specialist</em>  
+  <em>⚡ Turning Code → Immersion • 🎮 Unity • 🥽 XR • 🛠 Simulation</em>  
 </p>
 
 ---
